@@ -19,7 +19,7 @@ Some of our labs this semester will be painfully slow if run without a GPU. The 
 - [François Chollet and Lex Fridman discussing the History of Keras and TensorFlow](https://www.youtube.com/watch?v=44tFKZhPyP0)
 
 ## Useful links
-- [Repo for the previous semester](https://github.com/kamrik/PyData2025)
+- [Repo for the previous semester](https://github.com/PyDataGBC/PyData2025)
 - [JupyterLite](https://jupyterlite.github.io/demo/lab/index.html) - a version of Jupyter that runs entirely in the browser
 - [Python Quick Reference](https://nbviewer.org/github/justmarkham/python-reference/blob/master/reference.ipynb) (ipynb)
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) (pdf)
