@@ -25,5 +25,5 @@ Some of our labs this semester will be painfully slow if run without a GPU. The 
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) (pdf)
 
 ## Agentic AI Demo:
-- [https://github.com/https-deeplearning-ai/agentic-ai-public] (https://github.com/https-deeplearning-ai/agentic-ai-public)
+- [Research Agent] (https://github.com/https-deeplearning-ai/agentic-ai-public)
 
