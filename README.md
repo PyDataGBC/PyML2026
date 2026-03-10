@@ -24,3 +24,6 @@ Some of our labs this semester will be painfully slow if run without a GPU. The 
 - [Python Quick Reference](https://nbviewer.org/github/justmarkham/python-reference/blob/master/reference.ipynb) (ipynb)
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) (pdf)
 
+## Agentic AI Demo:
+- [https://github.com/https-deeplearning-ai/agentic-ai-public] (https://github.com/https-deeplearning-ai/agentic-ai-public)
+
